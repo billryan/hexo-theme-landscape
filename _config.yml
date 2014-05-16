@@ -1,7 +1,10 @@
 # Header
 menu:
   Home: /
+  Blog: http://blog.billryan.me
   Archives: /archives
+  About: http://blog.billryan.me/about
+
 rss: /atom.xml
 
 # Content
@@ -18,7 +21,7 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-32317667-4
 favicon: /favicon.png
 twitter:
 google_plus:
