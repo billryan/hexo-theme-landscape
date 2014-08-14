@@ -1,11 +1,11 @@
 # Header
 menu:
   Home: /
-  Blog: http://blog.billryan.me
+  Blog: /
   Archives: /archives
-  About: http://blog.billryan.me/about
+  About: /about
 
-rss: /atom.xml
+rss: http://feed.billryan.me/billryan
 
 # Content
 excerpt_link: Read More
