@@ -14,8 +14,8 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- category
-- tagcloud
+#- category
+#- tagcloud
 - recent_posts
 
 # Miscellaneous
