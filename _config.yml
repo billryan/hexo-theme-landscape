@@ -1,10 +1,10 @@
 # Header
 menu:
-  Home: /
+  About: http://www.yuanbin.me
   Blog: /
-  Wiki: https://github.com/billryan/billryan.github.io/wiki
+  编程笔记: http://prog-notes.yuanbin.me
+  算法练习: http://algorithm.yuanbin.me
   Archives: /archives
-  About: /about
 
 rss: http://feed.billryan.me/billryan
 
